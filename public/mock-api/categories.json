@@ -1,0 +1,22 @@
+{
+    "results":[
+        {
+            "id": 1,
+            "name": "Work"
+        },
+        {
+            "id": 2,
+            "name": "Night life"
+        },
+        {
+            "id": 3,
+            "name": "Documents"
+        },
+        {
+            "id": 4,
+            "name": "Travel"
+        }
+    ],
+    "page": 1,
+    "total_results": 4
+}
